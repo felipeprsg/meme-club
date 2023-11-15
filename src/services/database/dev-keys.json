@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "segurobet-afiliados-dev",
+  "private_key_id": "a3f630bb658aca1982e6d77626a20d4ad7ae5276",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeOPR2kIq5Y6O9\nhLFxaBuymyLQMPDGNk5pAajUM1mqOvKHYuhrGLy6oDpffsKJ+3rdPFNdmj3tVR9b\ngB7fXqZfyxk/3VczArYPSxsikHd+nEgYEBkRK7C4h4r1mfv2uSk0EBXQtcAvSe+v\n/jdC/3QvFA3rjnRrVpnGjXj//Oe/4XLq0jw2saD72VgK/7uyohtPnIECR8MVTKNj\nS/DQmUOX1IRQG2zjlqt/uVz2GwNT7YefpN58ZHaYBqtsewvays3acWhNS14t3cjF\n/tZ10jX4/sbyKueJRT/AttavN6WGIjewnWvxVmYbCtsve2vR4DkBEC+CJfc1HGjT\nU84SFzgZAgMBAAECggEADzBJ/XDCNGpFf22zx/51vDdKyAAOuQRhEhD790TnrGEE\nw6zhwVgqU+MKP30QaUUIJiFCondqTvRvMm4x6IDySTtatOgHVSkDN6Qe2npSUkfn\n3tF6yoxuZkRyuUF7L9PWCf6qTXMJHDEFjphBj0+tBFDxRiXSdLRnRilyDmbli2SP\nEE6+QthX9wodXFq0IOt+EMGItsE7debRhxk0dTL5o1m91yGs6zbX/X7MKaYZoo6+\nZXTDWOKUtX3mNzxMA6ysCuLuzZ8e4rooJsZgngrxXbQmDR3BrFPK4szToVyrViB+\nwlznfl20oFYbYGUe1BnAZnxDwAILghwf2lSdOmx6wQKBgQDYjy13Y4CdFBtal8LP\nzAsQ3AcFOhXVVKD3JuTFf19F16CyrR41bi6n9TXByibtApxtmbuqnsURxBiHIecB\nGgWvpINMOvQhuPsadbEHnd31FmSchiH3euE9Vlo4OTSnmIACkaSkS0CoDcK2t1in\nZ8IznpYm+TP1LwLW4sV2l6Bz+QKBgQC7CeRoTzRcFALdRk/fzNkFyD+i0E4UFBjX\nMwY60IB8TumEy8q00sB/zIY0NuDrjgC6TwbnuduXz68KjwVRGXhA05cQHcc1YelO\n8icnzvgSbg+z5b2bKQjnHjBesJhcslz8X1QtviVT2HRvxMnWUecRNMDOd6O07XdL\nTRmQqJGtIQKBgDrltdfil/ggn8/jtngNZnUPYllpksaSXbTaPx33plG4c1wk+TJO\n5SGI7zXlZPDQ5Ppp9UBSLgbG7mTSM6F5ElLSy2LQJdWGGcT4fU01AkjF7lcjo9lK\n8jdcZO0locxzDV2lfsGwNcV++JX5B4OAFLE1UGEJJbhpMLyAsHOwiVMBAoGBAK3O\nyn8YIzrxqZvAbBc3v/C8nk4JLpU/+7l3A/IBsXRSzHQIAO257wKTp5675JVgl1KK\nf4s0zlgruaihMTqk5XewaG+kjGsR+oHPSw2WKjbOKi9tbZ3TKx/CkQZdKqjxYrFv\nUMVVLlDVE5aNk1ZjM8tsb0MuMGXAShwioIAp9X2hAoGAPy68vfeJw4hQaf/v7Tu4\nVy5xwXpu8tPB+BlPt1Qki7Oihgv8EiQ2ycUbSvr/R+SeweEXIufR6cqD/NRX587L\nx8cYHV52xlS7DOZWXzfhqJGrX4CeshjPjhKd/p8gkSVuiyGZ8oXKOfhUu16YB5BR\nji5JivbNE7/H3HlNzrSgFyA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xsvqp@segurobet-afiliados-dev.iam.gserviceaccount.com",
+  "client_id": "100715318983078132800",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xsvqp%40segurobet-afiliados-dev.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

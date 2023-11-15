@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-import { Home } from '@/app/layouts/Home';
+import { Room } from '@/app/layouts/Home/Room';
 
 export default function HomePage() {
   return (
@@ -11,7 +11,7 @@ export default function HomePage() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Home />
+      <Room />
     </>
   );
 }
